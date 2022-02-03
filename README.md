@@ -1,2 +1,2 @@
 # tribute-page
-A Tribut page on Malcolm Gladwell
+A Tribute page in honor of Malcolm Gladwell
