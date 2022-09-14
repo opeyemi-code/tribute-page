@@ -23,11 +23,12 @@ color: #496268;
 }
 .img-section{
   width: 70%;
-  margin: 10px auto 0 auto;
+  margin: 10px auto 0;
   display: block;
 }
 img{
-  width: 250px;
+  Max-width: 250px;
+  Height: auto;
 }
 .img-description{
   text-align: center;
